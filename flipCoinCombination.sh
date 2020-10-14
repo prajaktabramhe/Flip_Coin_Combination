@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "WELCOME TO FLIP COIN COMBINATION"
